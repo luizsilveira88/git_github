@@ -1,0 +1,1 @@
+Através da extenção GitHub Pull Requests, é possível criar e gerenciar pull requests e issues.
